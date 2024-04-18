@@ -1,0 +1,10 @@
+header{
+    height: 35vh;
+    background-image: url(https://i.pinimg.com/originals/00/08/06/0008069a050ade9ecf214d6ddd18021d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form{
+    background-image: linear-gradient(to right,white,rgb(123, 123, 212));
+}
